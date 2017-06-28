@@ -1,4 +1,4 @@
-# prayer-times-pwa
+# quraan-pwa
 
 > Quran pwa
 
